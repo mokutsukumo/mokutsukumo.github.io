@@ -2,5 +2,5 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css";
 
 #inner{
-  margin:0 24px;
+  padding:0 2rem;
 }
